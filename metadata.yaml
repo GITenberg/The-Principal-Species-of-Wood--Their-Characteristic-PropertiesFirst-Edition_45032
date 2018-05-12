@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43111'
     url: http://www.gutenberg.org/2009/agents/43111
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45032#The-Principal-Species-of-Wood--Their-Characteristic-PropertiesFirst-Edition
 gutenberg_issued: '2014-03-12'
 gutenberg_type: Text
 identifiers:
